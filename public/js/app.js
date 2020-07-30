@@ -1,5 +1,5 @@
 // Client side JavaScript
-console.log('This is client side JavaScript');
+
 // fetch is a browser side API. Its not accessible in Node.js
 
 // fetch('http://puzzle.mead.io/puzzle').then((response) => {
